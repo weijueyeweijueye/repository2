@@ -1,0 +1,5 @@
+.idea/
+target/
+*.cmd
+*.properties
+*.class
